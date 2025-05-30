@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 700px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #007bff;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+#chart-container {
+    width: 100%;
+    max-width: 500px;
+    height: 250px;
+    margin: auto;
+}
+
+input {
+    text-align: center;
+}
+
+button {
+    width: 100%;
+    font-size: 18px;
+}
