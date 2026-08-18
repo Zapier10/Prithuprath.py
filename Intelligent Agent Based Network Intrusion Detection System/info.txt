@@ -1,0 +1,14 @@
+demo ip addresses: 
+
+ddos : 192.168.1.50 
+
+brute force: 10.0.0.22
+
+zero day:  10.10.10.99
+
+port scan: 172.16.0.14
+
+gemini api key: AIzaSyD-DAlWsJGB_0Q3czWt5SN2pKi1HGwceQE
+
+mysql: 12345678
+
